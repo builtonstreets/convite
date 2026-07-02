@@ -1,0 +1,11 @@
+# Environment variables
+.env*.local
+
+# Firebase local/debug artifacts
+firebase-debug.log
+.firebase/
+
+# Common ignores
+node_modules
+.next/
+.DS_Store
