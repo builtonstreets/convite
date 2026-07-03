@@ -14,7 +14,7 @@ const nunito = Nunito({
 })
 
 export const metadata: Metadata = {
-  title: 'Nosso Batizado - Tema Toy Story',
+  title: 'Convite - Toy Story',
   description: 'Convite especial para celebrar com a gente! Confirme sua presença.',
   icons: {
     icon: [
