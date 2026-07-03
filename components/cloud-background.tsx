@@ -4,7 +4,7 @@ export function CloudBackground() {
       aria-hidden="true"
       className="pointer-events-none fixed inset-0 z-0"
       style={{
-        backgroundImage: "url('/images/cloud-wallpaper.png')",
+        backgroundImage: "url('/convite/images/cloud-wallpaper.png')",
         backgroundSize: "cover",
         backgroundPosition: "center top",
         backgroundRepeat: "repeat-y",

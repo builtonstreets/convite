@@ -13,7 +13,7 @@ export function EnvelopeCover({ onOpen }: EnvelopeCoverProps) {
       <div className="animate-pop-in w-full max-w-md text-center">
         {/* Logo Toy Story */}
         <Image
-          src="/images/toy-story-logo.png"
+          src="/convite/images/toy-story-logo.png"
           alt="Logo Toy Story"
           width={500}
           height={350}

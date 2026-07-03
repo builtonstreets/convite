@@ -33,7 +33,7 @@ export function JessieMissionModal({ onClose }: JessieMissionModalProps) {
 
  <div className="mx-auto flex h-40 max-w-[18rem] items-end justify-center gap-2 overflow-hidden">
           <Image
-            src="/images/woody-transparente.png"
+            src="/convite/images/woody-transparente.png"
             alt="Woody"
             width={533}
             height={468}
@@ -41,7 +41,7 @@ export function JessieMissionModal({ onClose }: JessieMissionModalProps) {
             className="h-32 min-w-0 flex-1 object-contain object-bottom drop-shadow-xl"
           />
           <Image
-            src="/images/jessie-pop-up.png"
+            src="/convite/images/jessie-pop-up.png"
             alt="Jessie"
             width={260}
             height={260}

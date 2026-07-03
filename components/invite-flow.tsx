@@ -11,7 +11,7 @@ import { JessieMissionModal } from "@/components/jessie-mission-modal"
 import { MusicButton } from "@/components/music-button"
 import { SideCharacters } from "@/components/side-characters"
 
-const MUSIC_SRC = "/music/toy-story-theme.mp3"
+const MUSIC_SRC = "/convite/music/toy-story-theme.mp3"
 
 export function InviteFlow() {
   const audioRef = useRef<HTMLAudioElement>(null)

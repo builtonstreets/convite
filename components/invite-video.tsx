@@ -25,7 +25,7 @@ export function InviteVideo() {
         <video
           ref={videoRef}
           className="aspect-video w-full object-cover"
-          src="/videos/woody-jessie.mp4"
+          src="/convite/videos/woody-jessie.mp4"
           autoPlay
           muted
           playsInline

@@ -7,14 +7,14 @@ export function SideCharacters() {
       className="pointer-events-none fixed inset-x-0 bottom-0 z-0 flex items-end justify-between"
     >
       <Image
-        src="/images/woody-removebg-preview.png"
+        src="/convite/images/woody-removebg-preview.png"
         alt=""
         width={400}
         height={650}
         className="h-[34vh] w-auto max-w-[40vw] object-contain object-bottom drop-shadow-xl sm:h-[42vh]"
       />
       <Image
-        src="/images/jessie-removebg-preview.png"
+        src="/convite/images/jessie-removebg-preview.png"
         alt=""
         width={400}
         height={650}
